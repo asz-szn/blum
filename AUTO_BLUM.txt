@@ -2,7 +2,7 @@
 // @name         Auto Blum 
 // @namespace    http://tampermonkey.net/
 // @version      16-10-2024
-// @description  AUTO click blum miễn phí không kinh danh ( đã dùng thì đừng sợ đã sợ thì đừng dùng)
+// @description  BLUM CLICKER GAME 1
 // @match        https://telegram.blum.codes/*
 // @grant        none
 // ==/UserScript==
